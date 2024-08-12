@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-wrapper {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.app-wrapper button {
+    padding: 0.5rem 1rem;
+}
+
