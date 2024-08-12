@@ -7,7 +7,7 @@
   };
 
   const sub_from_count = () => {
-    count.value--;
+    count.value--; 
   };
 
 </script>
